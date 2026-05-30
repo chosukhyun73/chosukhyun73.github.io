@@ -1,0 +1,9 @@
+{
+    "applinks": {
+      "apps": [],
+      "details": [{
+        "appID": "775U6U69T2.com.chosukhyun73.pharos",
+        "paths": ["/pharos", "/pharos/*"]
+      }]
+    } 
+  } 
