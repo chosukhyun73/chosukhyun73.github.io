@@ -2,8 +2,8 @@
     "applinks": {
       "apps": [],
       "details": [{
-        "appID": "4Y3LT2NAD7.com.chosukhyun73.pharos",
-        "paths": ["/pharos", "/pharos/*"]
+        "appID": "4Y3LT2NAD7.com.iphonekor.glassagent",
+        "paths": ["/glassagent", "/glassagent/*"]
       }]
     }
   }
